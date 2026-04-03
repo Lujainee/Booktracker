@@ -40,7 +40,7 @@ The program shows a menu with the following options:
 
 ## Note on Maven
 
-We used Maven as a build tool to manage the external libraries this project depends on (SQLite JDBC and Apache POI for reading the xlsx dataset). Maven automatically downloads these libraries and packages everything into a single runnable JAR file. Without Maven you would have to download and add these library files manually.
+I used Maven as a tool to manage the external libraries this project depends on (Such as SQLite JDBC and Apache POI for reading the xlsx dataset). Maven automatically downloads these libraries and packages everything into a single runnable JAR file. Without Maven I  would have to download and add these library files manually. I found this on youtube.
 
 ## Database
 
